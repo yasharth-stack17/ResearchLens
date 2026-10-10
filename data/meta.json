@@ -1,0 +1,177 @@
+{
+ "2017_1706.03762": {
+  "arxiv_id": "1706.03762",
+  "title": "Attention Is All You Need",
+  "year": 2017,
+  "category": "transformers",
+  "pages": 15
+ },
+ "2018_1810.04805": {
+  "arxiv_id": "1810.04805",
+  "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+  "year": 2018,
+  "category": "transformers",
+  "pages": 16
+ },
+ "2020_2005.14165": {
+  "arxiv_id": "2005.14165",
+  "title": "Language Models are Few-Shot Learners",
+  "year": 2020,
+  "category": "transformers",
+  "pages": 75
+ },
+ "2020_2001.08361": {
+  "arxiv_id": "2001.08361",
+  "title": "Scaling Laws for Neural Language Models",
+  "year": 2020,
+  "category": "transformers",
+  "pages": 30
+ },
+ "2022_2203.15556": {
+  "arxiv_id": "2203.15556",
+  "title": "Training Compute-Optimal Large Language Models",
+  "year": 2022,
+  "category": "transformers",
+  "pages": 36
+ },
+ "2022_2205.14135": {
+  "arxiv_id": "2205.14135",
+  "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+  "year": 2022,
+  "category": "efficiency",
+  "pages": 34
+ },
+ "2023_2307.08691": {
+  "arxiv_id": "2307.08691",
+  "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+  "year": 2023,
+  "category": "efficiency",
+  "pages": 14
+ },
+ "2022_2210.17323": {
+  "arxiv_id": "2210.17323",
+  "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+  "year": 2022,
+  "category": "efficiency",
+  "pages": 16
+ },
+ "2023_2306.00978": {
+  "arxiv_id": "2306.00978",
+  "title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+  "year": 2023,
+  "category": "efficiency",
+  "pages": 15
+ },
+ "2023_2309.06180": {
+  "arxiv_id": "2309.06180",
+  "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+  "year": 2023,
+  "category": "efficiency",
+  "pages": 16
+ },
+ "2022_2211.17192": {
+  "arxiv_id": "2211.17192",
+  "title": "Fast Inference from Transformers via Speculative Decoding",
+  "year": 2022,
+  "category": "efficiency",
+  "pages": 13
+ },
+ "2023_2305.13245": {
+  "arxiv_id": "2305.13245",
+  "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+  "year": 2023,
+  "category": "efficiency",
+  "pages": 7
+ },
+ "2021_2106.09685": {
+  "arxiv_id": "2106.09685",
+  "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+  "year": 2021,
+  "category": "finetuning",
+  "pages": 26
+ },
+ "2023_2305.14314": {
+  "arxiv_id": "2305.14314",
+  "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+  "year": 2023,
+  "category": "finetuning",
+  "pages": 26
+ },
+ "2022_2203.02155": {
+  "arxiv_id": "2203.02155",
+  "title": "Training language models to follow instructions with human feedback",
+  "year": 2022,
+  "category": "alignment",
+  "pages": 68
+ },
+ "2023_2305.18290": {
+  "arxiv_id": "2305.18290",
+  "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+  "year": 2023,
+  "category": "alignment",
+  "pages": 27
+ },
+ "2022_2212.08073": {
+  "arxiv_id": "2212.08073",
+  "title": "Constitutional AI: Harmlessness from AI Feedback",
+  "year": 2022,
+  "category": "alignment",
+  "pages": 34
+ },
+ "2020_2005.11401": {
+  "arxiv_id": "2005.11401",
+  "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "year": 2020,
+  "category": "retrieval",
+  "pages": 19
+ },
+ "2020_2004.04906": {
+  "arxiv_id": "2004.04906",
+  "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+  "year": 2020,
+  "category": "retrieval",
+  "pages": 13
+ },
+ "2023_2310.11511": {
+  "arxiv_id": "2310.11511",
+  "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "year": 2023,
+  "category": "retrieval",
+  "pages": 30
+ },
+ "2023_2312.00752": {
+  "arxiv_id": "2312.00752",
+  "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+  "year": 2023,
+  "category": "architectures",
+  "pages": 36
+ },
+ "2024_2401.04088": {
+  "arxiv_id": "2401.04088",
+  "title": "Mixtral of Experts",
+  "year": 2024,
+  "category": "architectures",
+  "pages": 13
+ },
+ "2023_2307.09288": {
+  "arxiv_id": "2307.09288",
+  "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+  "year": 2023,
+  "category": "architectures",
+  "pages": 77
+ },
+ "2023_2310.06825": {
+  "arxiv_id": "2310.06825",
+  "title": "Mistral 7B",
+  "year": 2023,
+  "category": "architectures",
+  "pages": 9
+ },
+ "2021_2104.09864": {
+  "arxiv_id": "2104.09864",
+  "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+  "year": 2021,
+  "category": "architectures",
+  "pages": 14
+ }
+}
