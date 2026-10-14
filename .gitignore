@@ -4,3 +4,6 @@ data/index/
 __pycache__/
 .env
 data/chunks.jsonl
+
+.env
+data/cache/
