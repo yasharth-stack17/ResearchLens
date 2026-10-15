@@ -7,3 +7,5 @@ data/chunks.jsonl
 
 .env
 data/cache/
+data/chat_history.sqlite3*
+backup/
