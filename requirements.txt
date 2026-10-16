@@ -1,0 +1,11 @@
+# Core libraries; Python 3.12 was used during development.
+# Install a CPU-compatible PyTorch build for your platform if pip's default is unsuitable.
+arxiv
+requests
+pymupdf
+numpy
+faiss-cpu
+rank-bm25
+sentence-transformers
+streamlit
+torch
